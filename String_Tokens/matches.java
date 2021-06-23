@@ -12,7 +12,7 @@ public class Demo {
           }
           System.out.println(count);
           for(String h:a){
-              if(!(h.equals(" "))){
+              if(h.matches("[a-zA-Z]+")){
                   System.out.println(h);
               }
           }
