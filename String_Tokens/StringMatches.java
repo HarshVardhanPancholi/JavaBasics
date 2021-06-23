@@ -1,4 +1,4 @@
-public class Demo {
+public class StringMatches {
  
   public static void main(String[] args) {
           Scanner scan = new Scanner(System.in);
